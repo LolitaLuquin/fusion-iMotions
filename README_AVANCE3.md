@@ -45,5 +45,5 @@ Se espera que cargues archivos `.csv` exportados desde iMotions con los encabeza
 
 ## ✍️ Autoría
 
-Desarrollado por Jesús Luquín y ChatGPT (OpenAI) como parte del Proyecto Terminal ECID.
+Desarrollado por Lolita Luquín y ChatGPT (OpenAI) como parte del Proyecto Terminal ECID.
 
